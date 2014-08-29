@@ -4,7 +4,7 @@
 //
 // Limitations: only anonymous FTP servers, only file retrieval operations.
 //
-// Internally connections to FTP servers are cached and re-used when possinle.
+// Internally connections to FTP servers are cached and re-used when possible.
 //
 // Example:
 //
